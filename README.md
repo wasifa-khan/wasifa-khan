@@ -1,9 +1,7 @@
 
-  <img src="https://i.gifer.com/6ELl.gif" width="100%">
-<br>
 <h1 align="center">Hi 👋, I'm Wasifa Asad Khan</h1>
 <h3 align="center">I’m a Full-Stack Developer | Software Engineer | & Data Analyst focused on scalable, user-centered applications.</h3>
-
+ <img src="https://www.palo-it.com/hubfs/Macbook-FINAL-1.gif" width="300" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasifa-khan&label=Profile%20views&color=0e75b6&style=flat" alt="wasifa-khan" /> </p>
 
 - 🌱 I’m currently learning **Python, Django**
